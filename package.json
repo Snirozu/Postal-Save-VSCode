@@ -2,6 +2,7 @@
   "name": "dude-save",
   "displayName": "Postal Dude Save",
   "description": "Didn't you just save?",
+  "repository": "https://github.com/Snirozu/Postal-Save-VSCode",
   "icon": "assets/icon.png",
   "version": "1.0.0",
   "publisher": "Snirozu",
